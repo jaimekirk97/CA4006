@@ -1,0 +1,127 @@
+Mission ID: 18 - is entering Boost stage
+Mission ID: 23 - is entering Boost stage
+Mission ID: 22 - is entering Boost stage
+Mission ID: 21 - is entering Boost stage
+Mission ID: 15 - is entering Boost stage
+Mission ID: 14 - Boost stage failed but is been recovered
+Mission ID: 17 - is entering Boost stage
+Mission ID: 16 - is entering Boost stage
+Mission ID: 20 - is entering Boost stage
+Network for mission 18 not currently available
+Mission ID: 19 - Boost stage failed but is been recovered
+Mission ID: 14 - Software update complete
+Mission ID: 19 - Software update complete
+Network for mission 17 not currently available
+Mission ID: 18 - is entering Interplanetary transit stage
+Mission ID: 17 - is entering Interplanetary transit stage
+Mission ID: 19 - is entering Interplanetary transit stage
+Mission ID: 14 - is entering Interplanetary transit stage
+Mission Component Thrusters with (Thread ID) 21 - Thruster conditions are good. Time: 0.0
+Mission Component Thrusters with (Thread ID) 16 - Thruster conditions are good. Time: 0.0
+Mission Component Fuel with (Thread ID) 18 - Fuel load is: 7000 Time: 0.0
+Mission Component Fuel with (Thread ID) 23 - Fuel load is: 5000 Time: 0.0
+Mission Component Control Systems with (Thread ID) 20 - Control systems are functioning. Time: 0.0
+Mission Component Control Systems with (Thread ID) 14 - Control systems are functioning. Time: 0.0
+Mission Component Fuel with (Thread ID) 15 - Fuel load is: 2000 Time: 0.0
+Mission Component Control Systems with (Thread ID) 17 - Control systems are functioning. Time: 0.0
+Mission Component Control Systems with (Thread ID) 19 - Control systems are functioning. Time: 0.0
+Mission Component Fuel with (Thread ID) 22 - Fuel load is: 2000 Time: 0.0
+Mission ID: 21 - Magnetometer: Magnetic field strength stable.
+Mission ID: 22 - Spectrometer: Light intensity is normal
+Mission ID: 16 - Interferometers: No abnormal readings.
+Mission ID: 14 - Magnetometer: Magnetic field strength stable.
+Mission ID: 17 - Interferometers: No abnormal readings.
+Mission ID: 22 - is entering Interplanetary transit stage
+Mission ID: 18 - Spectrometer: Light intensity is normal
+Mission ID: 18 - is entering Entry/Landing stage
+Mission ID: 15 - Interferometers: No abnormal readings.
+Mission Component Fuel with (Thread ID) 18 - Fuel load is: 7000 Time: 0.0
+Network for mission 22 not currently available
+Mission ID: 16 - is entering Interplanetary transit stage
+Mission ID: 22 - is entering Entry/Landing stage
+Mission ID: 18 - Spectrometer: Light intensity is normal
+Mission ID: 14 - Beware of passing debris.
+Mission ID: 15 - is entering Interplanetary transit stage
+Mission ID: 14 - is entering Entry/Landing stage
+Mission ID: 18 - is entering Exploration(rover) stage
+Network for mission 22 not currently available
+Mission Component Fuel with (Thread ID) 16 - Fuel load is: 4000 Time: 0.0
+Mission ID: 22 - is entering Exploration(rover) stage
+Network for mission 18 not currently available
+Mission Component Thrusters with (Thread ID) 14 - Thruster conditions are good. Time: 0.0
+Mission Component Control Systems with (Thread ID) 15 - Control systems are functioning. Time: 0.0
+Mission ID: 14 - Magnetometer: Magnetic field strength stable.
+Mission ID: 15 - Magnetometer: Magnetic field strength stable.
+Mission Component Control Systems with (Thread ID) 22 - Control systems are functioning. Time: 0.0
+Mission ID: 16 - Spectrometer: Light intensity is normal
+Mission ID: 22 - Interferometers: No abnormal readings.
+Mission ID: 14 - Beware of passing debris.
+Mission ID: 16 - is entering Entry/Landing stage
+Mission ID: 14 - is entering Exploration(rover) stage
+Network for mission 16 not currently available
+Mission ID: 16 - is entering Exploration(rover) stage
+Network for mission 16 not currently available
+Mission ID: 23 - Magnetometer: Magnetic field strength stable.
+Mission ID: 20 - Spectrometer: Light intensity is normal
+Mission Component Fuel with (Thread ID) 14 - Fuel load is: 6000 Time: 0.031
+Mission ID: 14 - Spectrometer: Light intensity is normal
+Mission ID: 17 - Beware of passing debris.
+Mission ID: 19 - Spectrometer: Light intensity is normal
+Mission ID: 17 - is entering Entry/Landing stage
+Mission Component Fuel with (Thread ID) 17 - Fuel load is: 4000 Time: 0.032
+Mission ID: 17 - Spectrometer: Light intensity is normal
+End Time: 0.03 - 18: Mission success - Uranus reached
+End Time: 0.032 - 14: Mission success - Saturn reached
+End Time: 0.031 - 22: Mission success - Venus reached
+End Time: 0.031 - 16: Mission success - Mercury reached
+Mission ID: 15 - Check fuel levels.
+Mission ID: 15 - is entering Entry/Landing stage
+Mission Component Thrusters with (Thread ID) 15 - Thruster conditions are good. Time: 0.032
+Mission ID: 15 - Spectrometer: Light intensity is normal
+Mission ID: 17 - is entering Exploration(rover) stage
+Mission Component Control Systems with (Thread ID) 17 - Control systems are functioning. Time: 0.032
+Mission ID: 17 - Spectrometer: Light intensity is normal
+Mission ID: 21 - Check fuel levels.
+Mission ID: 21 - is entering Interplanetary transit stage
+Mission Component Control Systems with (Thread ID) 21 - Control systems are functioning. Time: 0.032
+Mission ID: 21 - Spectrometer: Light intensity is normal
+Mission ID: 21 - Beware of passing debris.
+Mission ID: 21 - is entering Entry/Landing stage
+Mission Component Control Systems with (Thread ID) 21 - Control systems are functioning. Time: 0.032
+Mission ID: 21 - Spectrometer: Light intensity is normal
+Mission ID: 21 - is entering Exploration(rover) stage
+Mission Component Thrusters with (Thread ID) 21 - Thruster conditions are good. Time: 0.032
+Mission ID: 21 - Magnetometer: Magnetic field strength stable.
+Mission ID: 15 - is entering Exploration(rover) stage
+Network for mission 15 not currently available
+End Time: 0.096 - 15: Mission success - Venus reached
+End Time: 0.11 - 17: Mission success - Mercury reached
+Mission ID: 21 - Beware of passing debris.
+End Time: 0.132 - 21: Mission success - Moon reached
+Mission ID: 19 - is entering Entry/Landing stage
+Mission Component Fuel with (Thread ID) 19 - Fuel load is: 7000 Time: 0.132
+Mission ID: 19 - Interferometers: No abnormal readings.
+Mission ID: 19 - is entering Exploration(rover) stage
+Mission Component Fuel with (Thread ID) 19 - Fuel load is: 7000 Time: 0.132
+Mission ID: 19 - Spectrometer: Light intensity is normal
+End Time: 32.334 - 19: Mission success - Uranus reached
+Mission ID: 23 - Interplanetary transit stage failed but is been recovered
+Mission ID: 23 - Software update complete
+Mission ID: 23 - is entering Entry/Landing stage
+Mission Component Thrusters with (Thread ID) 23 - Thruster conditions are good. Time: 32.334
+Mission ID: 23 - Interferometers: No abnormal readings.
+Mission ID: 20 - Check fuel levels.
+Mission ID: 20 - is entering Interplanetary transit stage
+Mission Component Thrusters with (Thread ID) 20 - Thruster conditions are good. Time: 32.334
+Mission ID: 20 - Magnetometer: Magnetic field strength stable.
+Mission ID: 23 - Beware of passing debris.
+Mission ID: 23 - is entering Exploration(rover) stage
+Mission Component Control Systems with (Thread ID) 23 - Control systems are functioning. Time: 32.334
+Mission ID: 23 - Magnetometer: Magnetic field strength stable.
+End Time: 65.705 - 23: Mission success - Jupiter reached
+Mission ID: 20 - is entering Entry/Landing stage
+Mission Component Fuel with (Thread ID) 20 - Fuel load is: 4000 Time: 65.705
+Mission ID: 20 - Interferometers: No abnormal readings.
+Mission ID: 20 - is entering Exploration(rover) stage
+Mission Component Thrusters with (Thread ID) 20 - Thruster conditions are good. Time: 65.705
+Mission ID: 20 - Spectrometer: Light intensity is normal

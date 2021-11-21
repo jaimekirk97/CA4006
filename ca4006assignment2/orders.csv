@@ -1,0 +1,35 @@
+1,admin,apples,5,30-01-2022,active
+2,admin,oranges,4,30-02-2022,cancelled
+3,adam,Game Boy,10,01/11/21,cancelled
+4,adam,Game Boy,500,06/07/2021,cancelled
+5,adam,Game Boy,100,05/08/2021,cancelled
+6,adam,Game Boy,100,05/07/2021,cancelled
+7,adam,Apples,3000,11/11/21,cancelled
+8,adam,Apples,2500,11/11/21,cancelled
+9,adam,Apples,100,11/11/21,active
+10,adam,Apples,100,11/11/21,cancelled
+11,adam,Apples,50,11/11/21,cancelled
+12,adam,Apples,50,11/11/21,cancelled
+13,adam,Apples,50,11/12/21,active
+14,adam,Apples,50,11/11/21,cancelled
+15,adam,Apples,50,11/11/21,active
+16,adam,Apples,50,11/11/21,active
+17,adam,Apples,50,11/11/21,active
+18,adam,Apples,50,11/11/21,cancelled
+19,adam,Apples,50,11/11/21,active
+20,adam,Apples,99,11/11/21,cancelled
+21,admin,Apples,3,20-01-2022,cancelled
+22,admin,Oranges,3,30-01-2022,cancelled
+23,admin,Oranges,2,20-02-2022,active
+24,admin,Oranges,8,13-10-2022,active
+25,username,Apples,2,13-9-2022,active
+26,jaime,Oranges,3,20-5-2022,active
+27,adam,Game Boy,0,1-7-2022,active
+28,admin,Game Boy,1,23-4-2022,active
+29,username,Game Boy,5,1-4-2022,active
+30,jaime,Apples,9,15-5-2022,active
+31,adam,Apples,4,14-6-2022,active
+32,admin,Apples,2,20-01-2022,active
+33,username,Game Boy,9,2-3-2022,active
+34,admin,Apples,3,30-03-2022,active
+35,admin,Apples,3,30-03-2022,active
